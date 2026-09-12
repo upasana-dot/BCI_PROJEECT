@@ -9,10 +9,10 @@ CHALLENGES OF BCI :
 5. learning burden for users
 
 REAL-WORLD APPLICATION OF BCIs :
-health application
-communication Aid
-Restoring Senses
-Augmenting Human Capabilities
-Gaming and virtual reality
-Revolutionizing education
-creative expression
+1. health application
+2. communication Aid
+3. Restoring Senses
+4. Augmenting Human Capabilities
+5. Gaming and virtual reality
+6. Revolutionizing education
+7. creative expression
